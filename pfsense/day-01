@@ -6,7 +6,7 @@ pfSense VM ke network adapters check karna aur WAN/LAN IP note karna.
 ## Lab setup
 - Host: VMware Workstation Pro
 - pfSense adapter 1 (WAN): NAT
-- pfSense adapter 2 (LAN): Host-only (VMnet1)
+- pfSense adapter 2 (LAN): Host-only (VMnet0)
 
 ## IP addresses
 | Interface | IP |
